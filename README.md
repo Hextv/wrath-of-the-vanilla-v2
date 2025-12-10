@@ -3,7 +3,7 @@ This project focuses on turning a server running AzerothCore into one limited to
 
 The goal is to combine Wrath of the Lich King mechanics with classic content, avoiding the limitations of the vanilla client while still preserving the feel of the original game.
 
-Work progresses zone by zone, and completing the entire world will take considerable time. Community feedback is welcome—if something is missed or proves incorrect after changes, it will be addressed.
+Work progresses zone by zone, and completing the entire world will take considerable time. Community feedback is welcome, if something is missed or proves incorrect after changes, it will be addressed.
 Spawn points and respawn times of creatures and objects will be refined once a significant portion of the maps are complete, as this requires extensive effort.
 The long-term plan is to add progression, unlocking content gradually. Future expansions such as The Burning Crusade and beyond are considered, but remain far from implementation.
 
@@ -21,7 +21,7 @@ This Repository is based on https://github.com/noisiver/wrath-of-the-vanilla
 
 # Whats the difference between wrath-of-the-vanilla and wrath-of-the-vanilla-v2?
 
-The original wrath-of-the-vanilla repository was archived by its owner, which meant no further updates or contributions could be made. I (Hex) created wrath-of-the-vanilla-v2 to continue the project and make it compatible with the latest AzerothCore database.
+The original wrath-of-the-vanilla repository was archived by its owner, which meant no further updates or contributions could be made. I ([Hex](https://github.com/Hextv)) created wrath-of-the-vanilla-v2 to continue the project and make it compatible with the latest AzerothCore database.
 
 Some of the original SQL queries were outdated, no longer worked correctly, and caused errors. In the v2 version, these queries have been fixed and updated so the project runs properly again.
 
