@@ -19,6 +19,9 @@ Do **not** import the files spell_proc_event.sql and npc_trainer.sql found in th
 # Disclamer
 This Repository is based on https://github.com/noisiver/wrath-of-the-vanilla
 
+# Support
+https://discord.gg/FqYx4adu
+
 # Whats the difference between wrath-of-the-vanilla and wrath-of-the-vanilla-v2?
 
 The original wrath-of-the-vanilla repository was archived by its owner, which meant no further updates or contributions could be made. I ([Hex](https://github.com/Hextv)) created wrath-of-the-vanilla-v2 to continue the project and make it compatible with the latest AzerothCore database.
