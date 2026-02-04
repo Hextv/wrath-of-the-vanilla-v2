@@ -20,7 +20,7 @@ Do **not** import the files spell_proc_event.sql and npc_trainer.sql found in th
 This Repository is based on https://github.com/noisiver/wrath-of-the-vanilla
 
 # Support
-https://discord.gg/FqYx4adu
+https://discord.gg/pAUc6uGhPP
 
 # Whats the difference between wrath-of-the-vanilla and wrath-of-the-vanilla-v2?
 
